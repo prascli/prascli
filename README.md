@@ -107,9 +107,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | yesterday | MIT |
-| [gha-bill](https://github.com/indraoverflow/gha-bill) | none | 8 days ago | MIT |
-| [consistency-nginx](https://github.com/indraoverflow/consistency-nginx) | none | 4 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 2 days ago | MIT |
+| [gha-bill](https://github.com/indraoverflow/gha-bill) | none | 9 days ago | MIT |
+| [consistency-nginx](https://github.com/indraoverflow/consistency-nginx) | none | 5 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -141,22 +141,20 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[Balanov/skein](https://github.com/Balanov/skein)**: 1 merged pull request, latest 2026-11-15
+  - fix(engine): return ErrStopped when a stop fences a run in flight ([#2](https://github.com/Balanov/skein/pull/2), merged 2026-11-15)
+- **[artivisi/balaka](https://github.com/artivisi/balaka)**: 1 merged pull request, latest 2026-11-15
+  - feat(documents): upload several transaction documents in one request ([#57](https://github.com/artivisi/balaka/pull/57), merged 2026-11-15)
+- **[gopherium/gophenberg](https://github.com/gopherium/gophenberg)**: 1 merged pull request, latest 2026-11-14
+  - Surface dbkit.ErrBusy as 503 database_busy on save deadlock ([#681](https://github.com/gopherium/gophenberg/pull/681), merged 2026-11-14)
+- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 3 merged pull requests, latest 2026-11-14
+  - feat(rules): add CFG137 for text hidden behind long runs of blanks (#1718) ([#1758](https://github.com/cfgaudit/cfgaudit/pull/1758), merged 2026-11-14)
+  - fix(CFG056): do not treat including and -thing nouns as narrowing ([#1757](https://github.com/cfgaudit/cfgaudit/pull/1757), merged 2026-11-14)
+  - fix(CFG119): skip interpreter version arguments and flag values ([#1725](https://github.com/cfgaudit/cfgaudit/pull/1725), merged 2026-11-14)
+- **[lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)**: 1 merged pull request, latest 2026-11-14
+  - content: add learner mistake 1037 ([#34105](https://github.com/lingdojo/kana-dojo/pull/34105), merged 2026-11-14)
 - **[pulseaiclub/phi](https://github.com/pulseaiclub/phi)**: 1 merged pull request, latest 2026-11-14
   - docs: sync README.zh-CN.md with English README ([#528](https://github.com/pulseaiclub/phi/pull/528), merged 2026-11-14)
-- **[glsec/glsec](https://github.com/glsec/glsec)**: 1 merged pull request, latest 2026-11-13
-  - fix(GL062): treat grep filters that cannot reach CI secrets as narrow (#1375) ([#1410](https://github.com/glsec/glsec/pull/1410), merged 2026-11-13)
-- **[sneakercreepers/creep](https://github.com/sneakercreepers/creep)**: 1 merged pull request, latest 2026-11-13
-  - fix(budget): count final line when file has no trailing newline ([#65](https://github.com/sneakercreepers/creep/pull/65), merged 2026-11-13)
-- **[GregoireF/ship-it](https://github.com/GregoireF/ship-it)**: 1 merged pull request, latest 2026-11-12
-  - 🐛 fix(cli): accept --yes on ship stack sync ([#108](https://github.com/GregoireF/ship-it/pull/108), merged 2026-11-12)
-- **[Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode)**: 1 merged pull request, latest 2026-11-12
-  - fix(metbench): return on validation errors instead of continuing (#35) ([#48](https://github.com/Edwin-metcalf/MetCode/pull/48), merged 2026-11-12)
-- **[stokaro/ptah-operator](https://github.com/stokaro/ptah-operator)**: 1 merged pull request, latest 2026-11-12
-  - docs(security): state the 128 aggregate bound the code enforces (#944) ([#1016](https://github.com/stokaro/ptah-operator/pull/1016), merged 2026-11-12)
-- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 1 merged pull request, latest 2026-11-12
-  - fix(cfg008): only report /dev/tcp reverse shells wired to a shell ([#1724](https://github.com/cfgaudit/cfgaudit/pull/1724), merged 2026-11-12)
-- **[artivisi/balaka](https://github.com/artivisi/balaka)**: 1 merged pull request, latest 2026-11-12
-  - feat(config): document storage path and forwarded headers from the environment ([#58](https://github.com/artivisi/balaka/pull/58), merged 2026-11-12)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -196,14 +194,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 482 |
-| Commits, last 12 months | 169 |
-| Pull requests opened, last 12 months | 104 |
+| Contributions, last 12 months | 590 |
+| Commits, last 12 months | 257 |
+| Pull requests opened, last 12 months | 117 |
 | Private contributions, last 12 months | 144 |
-| Merged pull requests authored, all time | 71 in 21 repositories |
-| Merged upstream, all time | 17 in 13 repositories |
+| Merged pull requests authored, all time | 81 in 24 repositories |
+| Merged upstream, all time | 24 in 16 repositories |
 
-_Refreshed 2026-11-14 from the GitHub API._
+_Refreshed 2026-11-15 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/indraoverflow">
