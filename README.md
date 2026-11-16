@@ -4,7 +4,7 @@
   <img src="assets/banner-dark-v2.svg" alt="Indra Prasetya, Senior Software Engineer, backend and platform engineering">
 </picture>
 
-# Indra Prasetya <img align="right" src="https://komarev.com/ghpvc/?username=indraoverflow&style=flat-square&color=gray&label=views" alt="profile views">
+# Indra Prasetya <img align="right" src="https://komarev.com/ghpvc/?username=prascli&style=flat-square&color=gray&label=views" alt="profile views">
 
 ### Senior Software Engineer | Backend and Platform Engineering
 
@@ -19,8 +19,9 @@ maintain our open-source tooling. The rest of my time goes to developer tools
 that remove a measurable cost, which is how
 [agentdiet](https://github.com/qansaid/agentdiet) started.
 
+[Email](mailto:indra@qansa.id) |
 [LinkedIn](https://www.linkedin.com/in/indraoverflow/) |
-[GitHub](https://github.com/indraoverflow) |
+[GitHub](https://github.com/prascli) |
 [qansa.id](https://www.qansa.id) |
 [agentdiet.qansa.web.id](https://agentdiet.qansa.web.id)
 
@@ -78,7 +79,7 @@ Stack: Go, GitHub Actions, Next.js product site. MIT licensed.
 [site](https://agentdiet.qansa.web.id) |
 `go install github.com/qansaid/agentdiet@latest`
 
-### [gha-bill](https://github.com/indraoverflow/gha-bill)
+### [gha-bill](https://github.com/prascli/gha-bill)
 
 CI bills arrive after the cost is committed. gha-bill reads the workflow files
 already in a repository and reports cost per workflow, per month, before the
@@ -91,7 +92,7 @@ CI workflow that runs it.
 
 Stack: Python, GitHub Actions, CodeQL.
 
-### [consistency-nginx](https://github.com/indraoverflow/consistency-nginx)
+### [consistency-nginx](https://github.com/prascli/consistency-nginx)
 
 A cache cluster only works when the same key lands on the same node, or the hit
 rate collapses. This project builds a working demonstration: an NGINX router
@@ -108,16 +109,16 @@ Facts about each flagship repository, refreshed from the GitHub API.
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
 | [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 2 days ago | MIT |
-| [gha-bill](https://github.com/indraoverflow/gha-bill) | none | 9 days ago | MIT |
-| [consistency-nginx](https://github.com/indraoverflow/consistency-nginx) | none | 5 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 9 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 5 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
 
 ## Other repositories
 
-[kafka-security-ssl-sasl](https://github.com/indraoverflow/kafka-security-ssl-sasl)
-and [kafka-monitoring](https://github.com/indraoverflow/kafka-monitoring):
+[kafka-security-ssl-sasl](https://github.com/prascli/kafka-security-ssl-sasl)
+and [kafka-monitoring](https://github.com/prascli/kafka-monitoring):
 operating a Kafka cluster is two problems, proving a broker is healthy and
 seeing what it is doing. The first is a health checker for brokers behind TLS
 and SASL-SCRAM, with retries and webhook alerts when a broker fails. The second
@@ -125,7 +126,7 @@ is a Compose stack that collects metrics and logs with Prometheus, Loki and
 Promtail and visualises them in Grafana. Both are complete and stable rather
 than under active development.
 
-[backend-wis-mulai-hidup](https://github.com/indraoverflow/backend-wis-mulai-hidup):
+[backend-wis-mulai-hidup](https://github.com/prascli/backend-wis-mulai-hidup):
 backend for a wedding invitation platform, with invitation and theme modules,
 wedding media, transactional email and Prisma migrations on PostgreSQL.
 Node.js, Express, TypeScript.
@@ -204,11 +205,11 @@ belongs to the maintainer, so it does not appear in the generated list.
 _Refreshed 2026-11-15 from the GitHub API._
 <!-- STATS:END -->
 
-<a href="https://github.com/indraoverflow">
+<a href="https://github.com/prascli">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=indraoverflow&theme=dark&hide_border=true&short_numbers=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=indraoverflow&theme=default&hide_border=true&short_numbers=true">
-    <img src="https://streak-stats.demolab.com?user=indraoverflow&theme=dark&hide_border=true&short_numbers=true" alt="GitHub streak: total contributions, current streak and longest streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prascli&theme=dark&hide_border=true&short_numbers=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=prascli&theme=default&hide_border=true&short_numbers=true">
+    <img src="https://streak-stats.demolab.com?user=prascli&theme=dark&hide_border=true&short_numbers=true" alt="GitHub streak: total contributions, current streak and longest streak">
   </picture>
 </a>
 
@@ -216,8 +217,9 @@ _Refreshed 2026-11-15 from the GitHub API._
 
 ## Contact
 
-- LinkedIn: [indraoverflow](https://www.linkedin.com/in/indraoverflow/)
-- GitHub: [@indraoverflow](https://github.com/indraoverflow)
+- Email: [indra@qansa.id](mailto:indra@qansa.id)
+- LinkedIn: [Indra Prasetya](https://www.linkedin.com/in/indraoverflow/)
+- GitHub: [@prascli](https://github.com/prascli)
 - Company: [Qansa Solusi Indonesia](https://www.qansa.id)
 - Product: [agentdiet.qansa.web.id](https://agentdiet.qansa.web.id)
 
