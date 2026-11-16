@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 2 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 9 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 5 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | today | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 10 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 6 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,20 +142,21 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[confuserdotcom/hourdial](https://github.com/confuserdotcom/hourdial)**: 1 merged pull request, latest 2026-11-15
+  - fix(collect): lower the Sway/i3 IPC reply cap to 1 MiB ([#21](https://github.com/confuserdotcom/hourdial/pull/21), merged 2026-11-15)
+- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 2 merged pull requests, latest 2026-11-15
+  - fix(rules): treat described override phrases as carve-outs in CFG026 (#1681) ([#1778](https://github.com/cfgaudit/cfgaudit/pull/1778), merged 2026-11-15)
+  - feat(rules): add CFG137 for text hidden behind long runs of blanks (#1718) ([#1758](https://github.com/cfgaudit/cfgaudit/pull/1758), merged 2026-11-14)
+- **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)**: 1 merged pull request, latest 2026-11-15
+  - fix(openai-compat): send stream:false for non-streaming chat completions ([#1811](https://github.com/tashfeenahmed/freellmapi/pull/1811), merged 2026-11-15)
 - **[Balanov/skein](https://github.com/Balanov/skein)**: 1 merged pull request, latest 2026-11-15
   - fix(engine): return ErrStopped when a stop fences a run in flight ([#2](https://github.com/Balanov/skein/pull/2), merged 2026-11-15)
 - **[artivisi/balaka](https://github.com/artivisi/balaka)**: 1 merged pull request, latest 2026-11-15
   - feat(documents): upload several transaction documents in one request ([#57](https://github.com/artivisi/balaka/pull/57), merged 2026-11-15)
 - **[gopherium/gophenberg](https://github.com/gopherium/gophenberg)**: 1 merged pull request, latest 2026-11-14
-  - Surface dbkit.ErrBusy as 503 database_busy on save deadlock ([#681](https://github.com/gopherium/gophenberg/pull/681), merged 2026-11-14)
-- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 3 merged pull requests, latest 2026-11-14
-  - feat(rules): add CFG137 for text hidden behind long runs of blanks (#1718) ([#1758](https://github.com/cfgaudit/cfgaudit/pull/1758), merged 2026-11-14)
-  - fix(CFG056): do not treat including and -thing nouns as narrowing ([#1757](https://github.com/cfgaudit/cfgaudit/pull/1757), merged 2026-11-14)
-  - fix(CFG119): skip interpreter version arguments and flag values ([#1725](https://github.com/cfgaudit/cfgaudit/pull/1725), merged 2026-11-14)
+  - fix(server): answer a busy database with 503 database_busy ([#681](https://github.com/gopherium/gophenberg/pull/681), merged 2026-11-14)
 - **[lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)**: 1 merged pull request, latest 2026-11-14
   - content: add learner mistake 1037 ([#34105](https://github.com/lingdojo/kana-dojo/pull/34105), merged 2026-11-14)
-- **[pulseaiclub/phi](https://github.com/pulseaiclub/phi)**: 1 merged pull request, latest 2026-11-14
-  - docs: sync README.zh-CN.md with English README ([#528](https://github.com/pulseaiclub/phi/pull/528), merged 2026-11-14)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -195,14 +196,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 590 |
-| Commits, last 12 months | 257 |
-| Pull requests opened, last 12 months | 117 |
+| Contributions, last 12 months | 603 |
+| Commits, last 12 months | 264 |
+| Pull requests opened, last 12 months | 120 |
 | Private contributions, last 12 months | 144 |
-| Merged pull requests authored, all time | 81 in 24 repositories |
-| Merged upstream, all time | 24 in 16 repositories |
+| Merged pull requests authored, all time | 85 in 26 repositories |
+| Merged upstream, all time | 27 in 18 repositories |
 
-_Refreshed 2026-11-15 from the GitHub API._
+_Refreshed 2026-11-16 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
