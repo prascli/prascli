@@ -20,7 +20,7 @@ that remove a measurable cost, which is how
 [agentdiet](https://github.com/qansaid/agentdiet) started.
 
 [Email](mailto:indra@qansa.id) |
-[LinkedIn](https://www.linkedin.com/in/indraoverflow/) |
+[LinkedIn](https://www.linkedin.com/in/prascli/) |
 [GitHub](https://github.com/prascli) |
 [qansa.id](https://www.qansa.id) |
 [agentdiet.qansa.web.id](https://agentdiet.qansa.web.id)
@@ -218,7 +218,7 @@ _Refreshed 2026-11-15 from the GitHub API._
 ## Contact
 
 - Email: [indra@qansa.id](mailto:indra@qansa.id)
-- LinkedIn: [Indra Prasetya](https://www.linkedin.com/in/indraoverflow/)
+- LinkedIn: [Indra Prasetya](https://www.linkedin.com/in/prascli/)
 - GitHub: [@prascli](https://github.com/prascli)
 - Company: [Qansa Solusi Indonesia](https://www.qansa.id)
 - Product: [agentdiet.qansa.web.id](https://agentdiet.qansa.web.id)
