@@ -17,7 +17,7 @@ import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-USERNAME = "indraoverflow"
+USERNAME = "prascli"
 OWNED_BY = {USERNAME, "qansaid"}
 README = "README.md"
 MAX_PULL_REQUESTS = 8
@@ -32,8 +32,8 @@ BLOCKS = {
 # The flagship repositories, in the order the README presents them.
 PROJECTS = [
     ("agentdiet", "qansaid/agentdiet"),
-    ("gha-bill", "indraoverflow/gha-bill"),
-    ("consistency-nginx", "indraoverflow/consistency-nginx"),
+    ("gha-bill", "prascli/gha-bill"),
+    ("consistency-nginx", "prascli/consistency-nginx"),
 ]
 
 
