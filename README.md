@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | yesterday | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 11 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 7 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 2 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 12 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 8 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,21 +142,22 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
-- **[argon-lab/argon](https://github.com/argon-lab/argon)**: 1 merged pull request, latest 2026-11-17
-  - feat(cli): add JSON output to gc and restore (#75) ([#99](https://github.com/argon-lab/argon/pull/99), merged 2026-11-17)
-- **[confuserdotcom/hourdial](https://github.com/confuserdotcom/hourdial)**: 1 merged pull request, latest 2026-11-15
-  - fix(collect): lower the Sway/i3 IPC reply cap to 1 MiB ([#21](https://github.com/confuserdotcom/hourdial/pull/21), merged 2026-11-15)
-- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 2 merged pull requests, latest 2026-11-15
-  - fix(rules): treat described override phrases as carve-outs in CFG026 (#1681) ([#1778](https://github.com/cfgaudit/cfgaudit/pull/1778), merged 2026-11-15)
-  - feat(rules): add CFG137 for text hidden behind long runs of blanks (#1718) ([#1758](https://github.com/cfgaudit/cfgaudit/pull/1758), merged 2026-11-14)
-- **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)**: 1 merged pull request, latest 2026-11-15
-  - fix(openai-compat): send stream:false for non-streaming chat completions ([#1811](https://github.com/tashfeenahmed/freellmapi/pull/1811), merged 2026-11-15)
-- **[Balanov/skein](https://github.com/Balanov/skein)**: 1 merged pull request, latest 2026-11-15
-  - fix(engine): return ErrStopped when a stop fences a run in flight ([#2](https://github.com/Balanov/skein/pull/2), merged 2026-11-15)
-- **[artivisi/balaka](https://github.com/artivisi/balaka)**: 1 merged pull request, latest 2026-11-15
-  - feat(documents): upload several transaction documents in one request ([#57](https://github.com/artivisi/balaka/pull/57), merged 2026-11-15)
-- **[gopherium/gophenberg](https://github.com/gopherium/gophenberg)**: 1 merged pull request, latest 2026-11-14
-  - fix(server): answer a busy database with 503 database_busy ([#681](https://github.com/gopherium/gophenberg/pull/681), merged 2026-11-14)
+- **[dmae97/omk](https://github.com/dmae97/omk)**: 1 merged pull request, latest 2026-11-18
+  - test(coding-agent): add unit tests for countOverlappingOccurrences ([#466](https://github.com/dmae97/omk/pull/466), merged 2026-11-18)
+- **[argon-lab/argon](https://github.com/argon-lab/argon)**: 1 merged pull request, latest 2026-11-18
+  - fix(boxd): handle null changes in host review() ([#111](https://github.com/argon-lab/argon/pull/111), merged 2026-11-18)
+- **[stackql/stackql](https://github.com/stackql/stackql)**: 1 merged pull request, latest 2026-11-17
+  - fix(sqlfuncs): return SQL NULL from json_equal/aws_policy_equal for NULL args ([#933](https://github.com/stackql/stackql/pull/933), merged 2026-11-17)
+- **[gopherium/gophenberg](https://github.com/gopherium/gophenberg)**: 1 merged pull request, latest 2026-11-17
+  - fix(content): let the last Make default request win when two race ([#683](https://github.com/gopherium/gophenberg/pull/683), merged 2026-11-17)
+- **[fhirlint/fhirlint](https://github.com/fhirlint/fhirlint)**: 1 merged pull request, latest 2026-11-17
+  - fix(fhirpkg): ignore build metadata in CompareVersions ([#720](https://github.com/fhirlint/fhirlint/pull/720), merged 2026-11-17)
+- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 1 merged pull request, latest 2026-11-17
+  - fix(rules): treat placeholder public-key names as non-sensitive in CFG036 ([#1817](https://github.com/cfgaudit/cfgaudit/pull/1817), merged 2026-11-17)
+- **[oxynote/oxynote](https://github.com/oxynote/oxynote)**: 1 merged pull request, latest 2026-11-17
+  - fix(core): map prometheus api errors consistently across lookup methods ([#419](https://github.com/oxynote/oxynote/pull/419), merged 2026-11-17)
+- **[pulseaiclub/phi](https://github.com/pulseaiclub/phi)**: 1 merged pull request, latest 2026-11-17
+  - fix(compaction): make empty-entry-ID error actionable ([#569](https://github.com/pulseaiclub/phi/pull/569), merged 2026-11-17)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -196,14 +197,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 651 |
-| Commits, last 12 months | 290 |
-| Pull requests opened, last 12 months | 136 |
+| Contributions, last 12 months | 702 |
+| Commits, last 12 months | 315 |
+| Pull requests opened, last 12 months | 155 |
 | Private contributions, last 12 months | 144 |
-| Merged pull requests authored, all time | 94 in 28 repositories |
-| Merged upstream, all time | 28 in 19 repositories |
+| Merged pull requests authored, all time | 114 in 35 repositories |
+| Merged upstream, all time | 39 in 26 repositories |
 
-_Refreshed 2026-11-17 from the GitHub API._
+_Refreshed 2026-11-18 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
