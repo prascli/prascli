@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 2 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 12 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 8 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 3 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 13 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 9 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,22 +142,21 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[mnema-work/mnema](https://github.com/mnema-work/mnema)**: 1 merged pull request, latest 2026-11-19
+  - fix(search): accept --scope all and document the default ([#1319](https://github.com/mnema-work/mnema/pull/1319), merged 2026-11-19)
+- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 1 merged pull request, latest 2026-11-18
+  - fix(cfg024): report C0 control characters and DEL in instruction files ([#1828](https://github.com/cfgaudit/cfgaudit/pull/1828), merged 2026-11-18)
+- **[artivisi/balaka](https://github.com/artivisi/balaka)**: 1 merged pull request, latest 2026-11-18
+  - feat(security): TOTP second factor, optional per user and required by role ([#60](https://github.com/artivisi/balaka/pull/60), merged 2026-11-18)
+- **[wmentor/go-magnetar](https://github.com/wmentor/go-magnetar)**: 2 merged pull requests, latest 2026-11-18
+  - fix(skill): log correct error when skill frontmatter is invalid ([#396](https://github.com/wmentor/go-magnetar/pull/396), merged 2026-11-18)
+  - fix(github): validate non-empty file path in FetchFile ([#395](https://github.com/wmentor/go-magnetar/pull/395), merged 2026-11-18)
 - **[dmae97/omk](https://github.com/dmae97/omk)**: 1 merged pull request, latest 2026-11-18
   - test(coding-agent): add unit tests for countOverlappingOccurrences ([#466](https://github.com/dmae97/omk/pull/466), merged 2026-11-18)
 - **[argon-lab/argon](https://github.com/argon-lab/argon)**: 1 merged pull request, latest 2026-11-18
   - fix(boxd): handle null changes in host review() ([#111](https://github.com/argon-lab/argon/pull/111), merged 2026-11-18)
 - **[stackql/stackql](https://github.com/stackql/stackql)**: 1 merged pull request, latest 2026-11-17
   - fix(sqlfuncs): return SQL NULL from json_equal/aws_policy_equal for NULL args ([#933](https://github.com/stackql/stackql/pull/933), merged 2026-11-17)
-- **[gopherium/gophenberg](https://github.com/gopherium/gophenberg)**: 1 merged pull request, latest 2026-11-17
-  - fix(content): let the last Make default request win when two race ([#683](https://github.com/gopherium/gophenberg/pull/683), merged 2026-11-17)
-- **[fhirlint/fhirlint](https://github.com/fhirlint/fhirlint)**: 1 merged pull request, latest 2026-11-17
-  - fix(fhirpkg): ignore build metadata in CompareVersions ([#720](https://github.com/fhirlint/fhirlint/pull/720), merged 2026-11-17)
-- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 1 merged pull request, latest 2026-11-17
-  - fix(rules): treat placeholder public-key names as non-sensitive in CFG036 ([#1817](https://github.com/cfgaudit/cfgaudit/pull/1817), merged 2026-11-17)
-- **[oxynote/oxynote](https://github.com/oxynote/oxynote)**: 1 merged pull request, latest 2026-11-17
-  - fix(core): map prometheus api errors consistently across lookup methods ([#419](https://github.com/oxynote/oxynote/pull/419), merged 2026-11-17)
-- **[pulseaiclub/phi](https://github.com/pulseaiclub/phi)**: 1 merged pull request, latest 2026-11-17
-  - fix(compaction): make empty-entry-ID error actionable ([#569](https://github.com/pulseaiclub/phi/pull/569), merged 2026-11-17)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -197,14 +196,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 702 |
-| Commits, last 12 months | 315 |
-| Pull requests opened, last 12 months | 155 |
+| Contributions, last 12 months | 719 |
+| Commits, last 12 months | 322 |
+| Pull requests opened, last 12 months | 162 |
 | Private contributions, last 12 months | 144 |
-| Merged pull requests authored, all time | 114 in 35 repositories |
-| Merged upstream, all time | 39 in 26 repositories |
+| Merged pull requests authored, all time | 121 in 36 repositories |
+| Merged upstream, all time | 44 in 27 repositories |
 
-_Refreshed 2026-11-18 from the GitHub API._
+_Refreshed 2026-11-19 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
