@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 5 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 15 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 11 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 6 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 16 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 12 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,6 +142,12 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[argon-lab/argon](https://github.com/argon-lab/argon)**: 1 merged pull request, latest 2026-11-22
+  - feat(cli): add -o json to migrate-wal ([#201](https://github.com/argon-lab/argon/pull/201), merged 2026-11-22)
+- **[GillMacedo/whybumped](https://github.com/GillMacedo/whybumped)**: 1 merged pull request, latest 2026-11-21
+  - feat(chain): show replace directives in chain output (#1) ([#6](https://github.com/GillMacedo/whybumped/pull/6), merged 2026-11-21)
+- **[lenny-ts/caddy-analyzer](https://github.com/lenny-ts/caddy-analyzer)**: 1 merged pull request, latest 2026-11-21
+  - fix(cmd): return non-zero exit code when a log file cannot be read ([#150](https://github.com/lenny-ts/caddy-analyzer/pull/150), merged 2026-11-21)
 - **[glsec/glsec](https://github.com/glsec/glsec)**: 1 merged pull request, latest 2026-11-20
   - fix(GL016): extract http:// URL from shell parameter expansions in variable values ([#1456](https://github.com/glsec/glsec/pull/1456), merged 2026-11-20)
 - **[mnema-work/mnema](https://github.com/mnema-work/mnema)**: 2 merged pull requests, latest 2026-11-19
@@ -151,11 +157,6 @@ after reproducing the failure.
   - fix(tokens): reject path traversal in readAntigravity conversation id ([#405](https://github.com/solongate/agent-security/pull/405), merged 2026-11-19)
 - **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 1 merged pull request, latest 2026-11-18
   - fix(cfg024): report C0 control characters and DEL in instruction files ([#1828](https://github.com/cfgaudit/cfgaudit/pull/1828), merged 2026-11-18)
-- **[artivisi/balaka](https://github.com/artivisi/balaka)**: 1 merged pull request, latest 2026-11-18
-  - feat(security): TOTP second factor, optional per user and required by role ([#60](https://github.com/artivisi/balaka/pull/60), merged 2026-11-18)
-- **[wmentor/go-magnetar](https://github.com/wmentor/go-magnetar)**: 2 merged pull requests, latest 2026-11-18
-  - fix(skill): log correct error when skill frontmatter is invalid ([#396](https://github.com/wmentor/go-magnetar/pull/396), merged 2026-11-18)
-  - fix(github): validate non-empty file path in FetchFile ([#395](https://github.com/wmentor/go-magnetar/pull/395), merged 2026-11-18)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -195,14 +196,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 748 |
-| Commits, last 12 months | 336 |
-| Pull requests opened, last 12 months | 171 |
-| Private contributions, last 12 months | 144 |
-| Merged pull requests authored, all time | 126 in 37 repositories |
-| Merged upstream, all time | 47 in 28 repositories |
+| Contributions, last 12 months | 786 |
+| Commits, last 12 months | 342 |
+| Pull requests opened, last 12 months | 185 |
+| Private contributions, last 12 months | 155 |
+| Merged pull requests authored, all time | 131 in 39 repositories |
+| Merged upstream, all time | 50 in 30 repositories |
 
-_Refreshed 2026-11-21 from the GitHub API._
+_Refreshed 2026-11-22 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
