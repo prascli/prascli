@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 6 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 16 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 12 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 7 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 17 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 13 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,6 +142,12 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)**: 1 merged pull request, latest 2026-11-23
+  - fix(market-breadth-analyzer): add instrument metadata for SPY proxy ([#839](https://github.com/tradermonty/claude-trading-skills/pull/839), merged 2026-11-23)
+- **[pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)**: 1 merged pull request, latest 2026-11-22
+  - docs(plugins): state the loader base-key contract (#1855) ([#1874](https://github.com/pyrite-wiki/pyrite/pull/1874), merged 2026-11-22)
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)**: 1 merged pull request, latest 2026-11-22
+  - docs(skill): respect review-only intent for mispositioned findings ([#2037](https://github.com/alibaba/open-code-review/pull/2037), merged 2026-11-22)
 - **[argon-lab/argon](https://github.com/argon-lab/argon)**: 1 merged pull request, latest 2026-11-22
   - feat(cli): add -o json to migrate-wal ([#201](https://github.com/argon-lab/argon/pull/201), merged 2026-11-22)
 - **[GillMacedo/whybumped](https://github.com/GillMacedo/whybumped)**: 1 merged pull request, latest 2026-11-21
@@ -150,13 +156,8 @@ after reproducing the failure.
   - fix(cmd): return non-zero exit code when a log file cannot be read ([#150](https://github.com/lenny-ts/caddy-analyzer/pull/150), merged 2026-11-21)
 - **[glsec/glsec](https://github.com/glsec/glsec)**: 1 merged pull request, latest 2026-11-20
   - fix(GL016): extract http:// URL from shell parameter expansions in variable values ([#1456](https://github.com/glsec/glsec/pull/1456), merged 2026-11-20)
-- **[mnema-work/mnema](https://github.com/mnema-work/mnema)**: 2 merged pull requests, latest 2026-11-19
+- **[mnema-work/mnema](https://github.com/mnema-work/mnema)**: 1 merged pull request, latest 2026-11-19
   - test(code): give slow cases their own ceiling in two tail tests ([#1341](https://github.com/mnema-work/mnema/pull/1341), merged 2026-11-19)
-  - fix(search): accept --scope all and document the default ([#1319](https://github.com/mnema-work/mnema/pull/1319), merged 2026-11-19)
-- **[solongate/agent-security](https://github.com/solongate/agent-security)**: 1 merged pull request, latest 2026-11-19
-  - fix(tokens): reject path traversal in readAntigravity conversation id ([#405](https://github.com/solongate/agent-security/pull/405), merged 2026-11-19)
-- **[cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit)**: 1 merged pull request, latest 2026-11-18
-  - fix(cfg024): report C0 control characters and DEL in instruction files ([#1828](https://github.com/cfgaudit/cfgaudit/pull/1828), merged 2026-11-18)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -196,14 +197,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 786 |
-| Commits, last 12 months | 342 |
-| Pull requests opened, last 12 months | 185 |
-| Private contributions, last 12 months | 155 |
-| Merged pull requests authored, all time | 131 in 39 repositories |
-| Merged upstream, all time | 50 in 30 repositories |
+| Contributions, last 12 months | 858 |
+| Commits, last 12 months | 348 |
+| Pull requests opened, last 12 months | 190 |
+| Private contributions, last 12 months | 210 |
+| Merged pull requests authored, all time | 135 in 42 repositories |
+| Merged upstream, all time | 53 in 33 repositories |
 
-_Refreshed 2026-11-22 from the GitHub API._
+_Refreshed 2026-11-23 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
