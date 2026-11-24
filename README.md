@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 7 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 17 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 13 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 8 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 18 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 14 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,6 +142,12 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[Kolgrim33/broom](https://github.com/Kolgrim33/broom)**: 1 merged pull request, latest 2026-11-23
+  - feat: add shell completion generator (bash, zsh, fish) ([#5](https://github.com/Kolgrim33/broom/pull/5), merged 2026-11-23)
+- **[soroworks/soroforge](https://github.com/soroworks/soroforge)**: 1 merged pull request, latest 2026-11-23
+  - docs(stellar): add ExampleContractIDFromSimulation godoc example ([#475](https://github.com/soroworks/soroforge/pull/475), merged 2026-11-23)
+- **[soroworks/sorovault](https://github.com/soroworks/sorovault)**: 1 merged pull request, latest 2026-11-23
+  - docs: add TLS proxy examples to operations guide ([#553](https://github.com/soroworks/sorovault/pull/553), merged 2026-11-23)
 - **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)**: 1 merged pull request, latest 2026-11-23
   - fix(market-breadth-analyzer): add instrument metadata for SPY proxy ([#839](https://github.com/tradermonty/claude-trading-skills/pull/839), merged 2026-11-23)
 - **[pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)**: 1 merged pull request, latest 2026-11-22
@@ -152,12 +158,6 @@ after reproducing the failure.
   - feat(cli): add -o json to migrate-wal ([#201](https://github.com/argon-lab/argon/pull/201), merged 2026-11-22)
 - **[GillMacedo/whybumped](https://github.com/GillMacedo/whybumped)**: 1 merged pull request, latest 2026-11-21
   - feat(chain): show replace directives in chain output (#1) ([#6](https://github.com/GillMacedo/whybumped/pull/6), merged 2026-11-21)
-- **[lenny-ts/caddy-analyzer](https://github.com/lenny-ts/caddy-analyzer)**: 1 merged pull request, latest 2026-11-21
-  - fix(cmd): return non-zero exit code when a log file cannot be read ([#150](https://github.com/lenny-ts/caddy-analyzer/pull/150), merged 2026-11-21)
-- **[glsec/glsec](https://github.com/glsec/glsec)**: 1 merged pull request, latest 2026-11-20
-  - fix(GL016): extract http:// URL from shell parameter expansions in variable values ([#1456](https://github.com/glsec/glsec/pull/1456), merged 2026-11-20)
-- **[mnema-work/mnema](https://github.com/mnema-work/mnema)**: 1 merged pull request, latest 2026-11-19
-  - test(code): give slow cases their own ceiling in two tail tests ([#1341](https://github.com/mnema-work/mnema/pull/1341), merged 2026-11-19)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -197,14 +197,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 858 |
-| Commits, last 12 months | 348 |
-| Pull requests opened, last 12 months | 190 |
-| Private contributions, last 12 months | 210 |
-| Merged pull requests authored, all time | 135 in 42 repositories |
-| Merged upstream, all time | 53 in 33 repositories |
+| Contributions, last 12 months | 876 |
+| Commits, last 12 months | 352 |
+| Pull requests opened, last 12 months | 198 |
+| Private contributions, last 12 months | 211 |
+| Merged pull requests authored, all time | 139 in 45 repositories |
+| Merged upstream, all time | 56 in 36 repositories |
 
-_Refreshed 2026-11-23 from the GitHub API._
+_Refreshed 2026-11-24 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
