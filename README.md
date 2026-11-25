@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 8 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 18 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 14 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 9 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 19 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 15 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,22 +142,21 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
-- **[Kolgrim33/broom](https://github.com/Kolgrim33/broom)**: 1 merged pull request, latest 2026-11-23
+- **[Kolgrim33/broom](https://github.com/Kolgrim33/broom)**: 2 merged pull requests, latest 2026-11-24
+  - feat(ecosystems): add marker-verified Bazel artifact rules ([#6](https://github.com/Kolgrim33/broom/pull/6), merged 2026-11-24)
   - feat: add shell completion generator (bash, zsh, fish) ([#5](https://github.com/Kolgrim33/broom/pull/5), merged 2026-11-23)
+- **[priompt/cli](https://github.com/priompt/cli)**: 1 merged pull request, latest 2026-11-24
+  - fix(diff): report deleted prompts with their own verdict ([#37](https://github.com/priompt/cli/pull/37), merged 2026-11-24)
+- **[elliotchance/gedcom](https://github.com/elliotchance/gedcom)**: 1 merged pull request, latest 2026-11-24
+  - filter: add NormalizeDateFilter to normalize date strings ([#343](https://github.com/elliotchance/gedcom/pull/343), merged 2026-11-24)
+- **[SerhiiCho/timeago](https://github.com/SerhiiCho/timeago)**: 1 merged pull request, latest 2026-11-24
+  - fix(ru,uk,be): use many form for 11-14 above 100 ([#56](https://github.com/SerhiiCho/timeago/pull/56), merged 2026-11-24)
 - **[soroworks/soroforge](https://github.com/soroworks/soroforge)**: 1 merged pull request, latest 2026-11-23
   - docs(stellar): add ExampleContractIDFromSimulation godoc example ([#475](https://github.com/soroworks/soroforge/pull/475), merged 2026-11-23)
 - **[soroworks/sorovault](https://github.com/soroworks/sorovault)**: 1 merged pull request, latest 2026-11-23
   - docs: add TLS proxy examples to operations guide ([#553](https://github.com/soroworks/sorovault/pull/553), merged 2026-11-23)
 - **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)**: 1 merged pull request, latest 2026-11-23
   - fix(market-breadth-analyzer): add instrument metadata for SPY proxy ([#839](https://github.com/tradermonty/claude-trading-skills/pull/839), merged 2026-11-23)
-- **[pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)**: 1 merged pull request, latest 2026-11-22
-  - docs(plugins): state the loader base-key contract (#1855) ([#1874](https://github.com/pyrite-wiki/pyrite/pull/1874), merged 2026-11-22)
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)**: 1 merged pull request, latest 2026-11-22
-  - docs(skill): respect review-only intent for mispositioned findings ([#2037](https://github.com/alibaba/open-code-review/pull/2037), merged 2026-11-22)
-- **[argon-lab/argon](https://github.com/argon-lab/argon)**: 1 merged pull request, latest 2026-11-22
-  - feat(cli): add -o json to migrate-wal ([#201](https://github.com/argon-lab/argon/pull/201), merged 2026-11-22)
-- **[GillMacedo/whybumped](https://github.com/GillMacedo/whybumped)**: 1 merged pull request, latest 2026-11-21
-  - feat(chain): show replace directives in chain output (#1) ([#6](https://github.com/GillMacedo/whybumped/pull/6), merged 2026-11-21)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -197,14 +196,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 876 |
-| Commits, last 12 months | 352 |
-| Pull requests opened, last 12 months | 198 |
-| Private contributions, last 12 months | 211 |
-| Merged pull requests authored, all time | 139 in 45 repositories |
-| Merged upstream, all time | 56 in 36 repositories |
+| Contributions, last 12 months | 892 |
+| Commits, last 12 months | 357 |
+| Pull requests opened, last 12 months | 205 |
+| Private contributions, last 12 months | 214 |
+| Merged pull requests authored, all time | 143 in 47 repositories |
+| Merged upstream, all time | 59 in 38 repositories |
 
-_Refreshed 2026-11-24 from the GitHub API._
+_Refreshed 2026-11-25 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
