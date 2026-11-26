@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 9 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 19 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 15 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 10 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 20 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 16 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,6 +142,12 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[ClickHouse/loom](https://github.com/ClickHouse/loom)**: 1 merged pull request, latest 2026-11-26
+  - fix(hooks): keep error text on failure events ([#1499](https://github.com/ClickHouse/loom/pull/1499), merged 2026-11-26)
+- **[pyrite-wiki/pyrite](https://github.com/pyrite-wiki/pyrite)**: 1 merged pull request, latest 2026-11-25
+  - fix(search): drop stop words from keyword fallback ([#1882](https://github.com/pyrite-wiki/pyrite/pull/1882), merged 2026-11-25)
+- **[CurvineIO/curvine](https://github.com/CurvineIO/curvine)**: 1 merged pull request, latest 2026-11-25
+  - fix(python-sdk): accept fsspec mode in CurvineFileSystem.open (#2317) ([#2547](https://github.com/CurvineIO/curvine/pull/2547), merged 2026-11-25)
 - **[Kolgrim33/broom](https://github.com/Kolgrim33/broom)**: 2 merged pull requests, latest 2026-11-24
   - feat(ecosystems): add marker-verified Bazel artifact rules ([#6](https://github.com/Kolgrim33/broom/pull/6), merged 2026-11-24)
   - feat: add shell completion generator (bash, zsh, fish) ([#5](https://github.com/Kolgrim33/broom/pull/5), merged 2026-11-23)
@@ -151,12 +157,6 @@ after reproducing the failure.
   - filter: add NormalizeDateFilter to normalize date strings ([#343](https://github.com/elliotchance/gedcom/pull/343), merged 2026-11-24)
 - **[SerhiiCho/timeago](https://github.com/SerhiiCho/timeago)**: 1 merged pull request, latest 2026-11-24
   - fix(ru,uk,be): use many form for 11-14 above 100 ([#56](https://github.com/SerhiiCho/timeago/pull/56), merged 2026-11-24)
-- **[soroworks/soroforge](https://github.com/soroworks/soroforge)**: 1 merged pull request, latest 2026-11-23
-  - docs(stellar): add ExampleContractIDFromSimulation godoc example ([#475](https://github.com/soroworks/soroforge/pull/475), merged 2026-11-23)
-- **[soroworks/sorovault](https://github.com/soroworks/sorovault)**: 1 merged pull request, latest 2026-11-23
-  - docs: add TLS proxy examples to operations guide ([#553](https://github.com/soroworks/sorovault/pull/553), merged 2026-11-23)
-- **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)**: 1 merged pull request, latest 2026-11-23
-  - fix(market-breadth-analyzer): add instrument metadata for SPY proxy ([#839](https://github.com/tradermonty/claude-trading-skills/pull/839), merged 2026-11-23)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -196,14 +196,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 892 |
-| Commits, last 12 months | 357 |
-| Pull requests opened, last 12 months | 205 |
-| Private contributions, last 12 months | 214 |
-| Merged pull requests authored, all time | 143 in 47 repositories |
-| Merged upstream, all time | 59 in 38 repositories |
+| Contributions, last 12 months | 908 |
+| Commits, last 12 months | 361 |
+| Pull requests opened, last 12 months | 212 |
+| Private contributions, last 12 months | 219 |
+| Merged pull requests authored, all time | 147 in 49 repositories |
+| Merged upstream, all time | 62 in 40 repositories |
 
-_Refreshed 2026-11-25 from the GitHub API._
+_Refreshed 2026-11-26 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
