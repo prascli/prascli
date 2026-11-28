@@ -108,9 +108,9 @@ Facts about each flagship repository, refreshed from the GitHub API.
 <!-- PROJECTS:START -->
 | Project | Release | Commit | License |
 | --- | --- | --- | --- |
-| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 11 days ago | MIT |
-| [gha-bill](https://github.com/prascli/gha-bill) | none | 21 days ago | MIT |
-| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 17 days ago | MIT |
+| [agentdiet](https://github.com/qansaid/agentdiet) | v0.1.8 | 12 days ago | MIT |
+| [gha-bill](https://github.com/prascli/gha-bill) | none | 22 days ago | MIT |
+| [consistency-nginx](https://github.com/prascli/consistency-nginx) | none | 18 days ago | MIT |
 <!-- PROJECTS:END -->
 
 ---
@@ -142,6 +142,10 @@ its installer, its HackerOne MCP integration and its documentation, each one mad
 after reproducing the failure.
 
 <!-- CONTRIBUTIONS:START -->
+- **[erkamyaman/unslop-anything](https://github.com/erkamyaman/unslop-anything)**: 1 merged pull request, latest 2026-11-27
+  - fix(detect): flag Quasar and Element Plus images without alt ([#256](https://github.com/erkamyaman/unslop-anything/pull/256), merged 2026-11-27)
+- **[coherera/quelor](https://github.com/coherera/quelor)**: 1 merged pull request, latest 2026-11-27
+  - classify: add Docker Hub pull rate limit classifier ([#72](https://github.com/coherera/quelor/pull/72), merged 2026-11-27)
 - **[getsentry/sentry-dotnet](https://github.com/getsentry/sentry-dotnet)**: 1 merged pull request, latest 2026-11-26
   - fix(profiling): link Android troubleshooting docs from build error ([#6025](https://github.com/getsentry/sentry-dotnet/pull/6025), merged 2026-11-26)
 - **[viktorstrate/mactrix](https://github.com/viktorstrate/mactrix)**: 1 merged pull request, latest 2026-11-26
@@ -154,10 +158,6 @@ after reproducing the failure.
   - fix(python-sdk): accept fsspec mode in CurvineFileSystem.open (#2317) ([#2547](https://github.com/CurvineIO/curvine/pull/2547), merged 2026-11-25)
 - **[Kolgrim33/broom](https://github.com/Kolgrim33/broom)**: 1 merged pull request, latest 2026-11-24
   - feat(ecosystems): add marker-verified Bazel artifact rules ([#6](https://github.com/Kolgrim33/broom/pull/6), merged 2026-11-24)
-- **[priompt/cli](https://github.com/priompt/cli)**: 1 merged pull request, latest 2026-11-24
-  - fix(diff): report deleted prompts with their own verdict ([#37](https://github.com/priompt/cli/pull/37), merged 2026-11-24)
-- **[elliotchance/gedcom](https://github.com/elliotchance/gedcom)**: 1 merged pull request, latest 2026-11-24
-  - filter: add NormalizeDateFilter to normalize date strings ([#343](https://github.com/elliotchance/gedcom/pull/343), merged 2026-11-24)
 <!-- CONTRIBUTIONS:END -->
 
 Also credited: [garrytan/gstack#4085](https://github.com/garrytan/gstack/pull/4085),
@@ -197,14 +197,14 @@ belongs to the maintainer, so it does not appear in the generated list.
 <!-- STATS:START -->
 | Metric | Value |
 | --- | --- |
-| Contributions, last 12 months | 921 |
-| Commits, last 12 months | 435 |
-| Pull requests opened, last 12 months | 220 |
-| Private contributions, last 12 months | 150 |
-| Merged pull requests authored, all time | 151 in 52 repositories |
-| Merged upstream, all time | 64 in 42 repositories |
+| Contributions, last 12 months | 928 |
+| Commits, last 12 months | 367 |
+| Pull requests opened, last 12 months | 221 |
+| Private contributions, last 12 months | 225 |
+| Merged pull requests authored, all time | 152 in 53 repositories |
+| Merged upstream, all time | 66 in 44 repositories |
 
-_Refreshed 2026-11-27 from the GitHub API._
+_Refreshed 2026-11-28 from the GitHub API._
 <!-- STATS:END -->
 
 <a href="https://github.com/prascli">
